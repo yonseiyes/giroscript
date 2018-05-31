@@ -42,7 +42,7 @@ MN01 144.217.161.212:51001 5aT4BojnsqsFNqBkA2296iQBSoeWTKHZ3gXqzZcnJQuXdrqjG1W f
     cd ~/giro_phi1612
     git pull
     cd src
-    ./seraph-cli stop
+    ./giro-cli stop
     make -f makefile.unix
 
 and Run daemon
