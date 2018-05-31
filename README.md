@@ -14,7 +14,7 @@ Copy & Paste below in Command line of VPS server & Press 'Enter'
 After the MN is up and running, you need to configure the desktop wallet accordingly. Here are the steps:  
 1. Open the GiroCoin Desktop Wallet.  
 2. Go to RECEIVE and create a New Address: **MN01**  
-3. Send **5000** GIRO to **MN01**.  
+3. Send **10000** GIRO to **MN01**.  
 4. Wait for 15 confirmations.  
 5. Go to **Tools -> "Debug Console"**  
 6. Type the following command: **masternode outputs**  
