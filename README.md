@@ -1,20 +1,20 @@
-# SERAPHcoin
+# Girocoin
 
-Shell script to install a [Seraph Masternode] on a Linux server running Ubuntu 16.04. Use it on your own risk.  
+Shell script to install a [Giro Masternode] on a Linux server running Ubuntu 16.04. Use it on your own risk.  
 
 ***
 
 ## Installation:  
 Copy & Paste below in Command line of VPS server & Press 'Enter'
 
-    git clone https://github.com/yonseiyes/seraphscript.git ; cd seraphscript ; chmod +x seraphscript ; ./seraphscript ;
+    git clone https://github.com/yonseiyes/giroscript.git ; cd giroscript ; chmod +x giroscript ; ./giroscript ;
 
 ## Desktop wallet setup  
 
 After the MN is up and running, you need to configure the desktop wallet accordingly. Here are the steps:  
-1. Open the SeraphCoin Desktop Wallet.  
+1. Open the GiroCoin Desktop Wallet.  
 2. Go to RECEIVE and create a New Address: **MN01**  
-3. Send **5000** SERA to **MN01**.  
+3. Send **5000** GIRO to **MN01**.  
 4. Wait for 15 confirmations.  
 5. Go to **Tools -> "Debug Console"**  
 6. Type the following command: **masternode outputs**  
