@@ -7,7 +7,7 @@ Shell script to install a [Giro Masternode] on a Linux server running Ubuntu 16.
 ## Installation:  
 Copy & Paste below in Command line of VPS server & Press 'Enter'
 
-    git clone https://github.com/yonseiyes/giroscript.git ; cd giroscript ; chmod +x giroscript ; ./giroscript ;
+    git clone https://github.com/yonseiyes/giroscript.git ; cd giroscript ; bash giroscript ;
 
 ## Desktop wallet setup  
 
