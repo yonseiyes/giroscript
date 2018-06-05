@@ -49,3 +49,5 @@ and Run daemon
 
     ./girod
 
+
+That's all! Enjoy your Masternode!! - written by 돔말(dommal)
